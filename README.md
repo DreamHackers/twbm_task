@@ -1,6 +1,8 @@
 # twbm_task
 twbmのtaskリポジトリです
 
+**※このリポジトリは、twbmのprivate化のタイミングで保守されなくなります。**
+
 # ルール
 
 ## Issues
