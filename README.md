@@ -16,6 +16,10 @@ twbmのtaskリポジトリです
 * Issuesに#の番号が隣についているので、それをコミットする時に付与すること
 * コミット履歴をそのIssuesに貼ってCloseして完了させる
 
+2. 設定ファイルを保存する時
+* centos/configに保存して下さい
+* `scp -i ~/key/hogehoge.pem -P 22 ec2-user@XX.XX.XX.XX:~/app/hogehoge.conf ./`
+
 ## ラベルについて
 * 大体以下のような形で
 * ラベルを追加したらここに追記して下さい
