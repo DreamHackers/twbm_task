@@ -1,3 +1,8 @@
+# Deprecated!!!
+これ以上保守されません。
+最新情報は、private serverの方を見て下さい。
+
+
 # twbm_task
 twbmのtaskリポジトリです
 
